@@ -7,40 +7,27 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2Fhit-counter&count_bg=%23567CBD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false" align="left" /></a>
 
-<br/>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhk010111&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%"/>
-  
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
 
-<!-- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkssud8150&theme=tokyonight)](https://git.io/streak-stats)
--->
-<br/>
+[![Donghee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhk010111&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <br/>
 
-  [![donghee's github activity graph](https://activity-graph.herokuapp.com/graph?username=dhk010111&theme=react-dark&line=6796e5&color=6796e5&bg_color=1a1b27)](https://github.com/dhk010111/github-readme-activity-graph)
-<br/>
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/openCV-5C3EE8?style=flat-square&logo=openCV&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp
+</p>
 
-  <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhk010111&theme=flat&column=7)](https://github.com/dhk010111/)
-
----
-<br />
-
- <details open>
-   
-  <summary>🚀 Stack</summary>
- 
-**Languages**
-
-<code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png"> python</code>
-<!-- <code><img alt = "3.1 C++" height="20" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png"> C++</code> -->
-
-<br />
-
-**Framework**
-
-<code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code> <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170887.png"> OpenCV</code> <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pocoo_flask_src_logo_icon_168043.png"> Flask</code>
-   
-</details> 
+<h3 align="center">🌈 Contact 🌈</h3>
+<p align="center">
+  <a href="https://www.instagram.com/dhk010111/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dhk010111/"/></a>&nbsp
+  <a href="mailto:dhk010111@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dhk010111@gmail.com"/></a>
+</p>
