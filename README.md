@@ -28,6 +28,27 @@
 
 <h3 align="center">🌈 Contact 🌈</h3>
 <p align="center">
-  <a href="https://www.instagram.com/dhk010111/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dhk010111/"/></a>&nbsp
+  <a href="https://www.instagram.com/dhk010111/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dhk010111/"/></a>
   <a href="mailto:dhk010111@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dhk010111@gmail.com"/></a>
 </p>
+
+
+
+<h3 align = "center"> Activities </h3>
+<p align = "center">
+  <a>2020.03 - 2020.11 멋쟁이사자처럼 8기 BE</a></br>
+  <a>2020.03 - 2022.02 동국대학교 학생부전형알리미 Dreamer 9기 </a></br>
+  <a>2021.01 - 2021.11 서울 성모병원 겨자씨키움센터 미래위원 1기 </a></br>
+  <a>2021.01 - 2021.12 멋쟁이사자처럼 9기 운영진 : 교육팀 </a></br>
+  <a>2021.01 - 2021.12 동국대학교 제37대 동아리연합회 기획국원 </a></br>
+  <a>2021.07 - 2021.09 동국대학교 인공지능연구센터 및 팜시스템 AI 서버관리자 </a></br>
+  <a>2022.01 - 2022.12 멋쟁이사자처럼 10기 운영진 : 교육팀 </a></br>
+  <a>2022.01 - 2022.12 동국대학교 제38대 동아리연합회 사무회계국 국장 </a></br>
+  <a>2022.05 - 2022.07 동국대학교 CSDC 연구실 학부연구생 인턴</a></br>
+  <a>2022.09 - 2023.01 또닥또닥 창업 동아리</a></br>
+  <a>2022.09 - 2023.01 동국대학교 Farm System 1기</a></br>
+  <a>2022.11 - 2022.12 멋쟁이사자처럼 단풍톤 운영단 총무팀</a></br>
+  <a>2023.01 - 2023.02 LG Aimers 2기 수료</a></br>
+</p>
+    
+  
